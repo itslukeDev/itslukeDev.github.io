@@ -1,6 +1,6 @@
 # Luke Lipscombe
 
 ### Profile 
-- **Started**: today’s date 
+- **Started**: 4/March/2024
 - **Role**: Software Developer 
-- **Hobbies**: Rowing, Reading, and Role-playing
+- **Hobbies**: vinyl collecting, 3d printing, jogging, programming 
